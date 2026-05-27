@@ -1,27 +1,21 @@
 streamlit
 
-# Utilities
 numpy
 pandas
-pillow
+
 scikit-learn
 
-# Face Recognition
 cmake
 dlib
-face_recognition
-git+https://github.com/ageitgey/face_recognition_models
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models
 
-# Backend
-supabase
+supabase==2.10.0
 bcrypt
 
-# QR
 segno
+pillow
 
-# Audio
 librosa
 resemblyzer
 
-# Compatibility
 setuptools<70
