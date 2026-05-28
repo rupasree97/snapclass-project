@@ -9,7 +9,7 @@ cmake
 dlib
 face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models
 
-supabase==2.10.0
+supabase==2.5.0
 bcrypt
 
 segno
